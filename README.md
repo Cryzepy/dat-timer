@@ -6,4 +6,4 @@ webapp digunakan untuk menghitung jarak waktu dari hari sekarang sampai dengan h
 - mengingat jarak waktu dan di simpan dengan label ke penyimpanan local browser dan cloud (untuk cloud masih dibatasi oleh developer)
 - mencari dan menghapus waktu yang disimpan di peyimpanan web browser
 
-# <a href="https://github.com/cryzepy/day-timer">Lihat website</a>
+# <a href="https://cryzepy.github.io/day-timer/">Lihat website</a>
