@@ -1,5 +1,5 @@
 # Tentang Aplikasi
-aplikasi ini digunakan untuk menghitung jarak waktu dari hari sekarang sampai dengan hari sesuai dengan inputan user
+aplikasi ini digunakan untuk menghitung jarak waktu dari hari sekarang sampai dengan hari tertentu (sesuai dengan inputan user)
 
 # Fitur aplikasi
 - menghitung dari hari sekarang ke hari tertentu
