@@ -103,7 +103,7 @@ function hitung(y, m, d, l, from) {
         year = parseInt(validasiLengthInp(y, 4));
         month = parseInt(m.value);
         date = parseInt(validasiLengthInp(d, 2));
-        label = validasiLengthInp(l, 25);
+        label = validasiLengthInp(l, 45);
     }
 
     const waktuTarget = new Date(year,
