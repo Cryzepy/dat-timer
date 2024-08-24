@@ -51,7 +51,7 @@ inp[2].addEventListener('input', () => {
 })
 btn_expand.addEventListener('click', expandElement)
 inp[3].addEventListener('input', (e) => {
-    validasiLengthInp(e.target, 25)
+    validasiLengthInp(e.target, 45)
 })
 btn_update_data.addEventListener('click', () => {
     container_update_data.classList.toggle('show')
